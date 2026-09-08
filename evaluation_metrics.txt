@@ -1,0 +1,20 @@
+Sentiment Analysis Model Evaluation Results
+==================================================
+
+Validation Results:
+  eval_loss: 0.4043
+  eval_accuracy: 0.8844
+  eval_precision: 0.8890
+  eval_recall: 0.8844
+  eval_f1: 0.8860
+
+Test Results:
+  accuracy: 0.8870
+  precision: 0.8907
+  recall: 0.8870
+  f1: 0.8884
+
+Model saved at: ./sentiment_model
+Number of training samples: 83989
+Number of validation samples: 10499
+Number of test samples: 10499
